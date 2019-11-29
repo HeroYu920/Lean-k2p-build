@@ -1,0 +1,2 @@
+*/5 * * * * /etc/smartdns.sh
+0 * * * * /etc/updateip.sh >/dev/null 2>&1
